@@ -1,6 +1,6 @@
 # PasswordGuard
 
-Fortifypass is a Python library for evaluating password strength and estimating cracking time.
+passwordguards is a Python library for evaluating password strength and estimating cracking time.
 
 ## Features
 
