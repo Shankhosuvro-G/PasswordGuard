@@ -1,6 +1,6 @@
 # PasswordGuard
 
-passwordguards is a Python library for evaluating password strength and estimating cracking time.
+passwordguard is a Python library for evaluating password strength and estimating cracking time.
 
 ## Features
 
